@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+	font-family: 'Lobster', cursive;
+}
+
+header{
+	background-image: url(bg.jpg);
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 10px;
+}
+
+h1, h2{
+	font-family: 'Lobster', cursive;
+}
+
+header h1{
+	color: #3F404C;
+    font-size: 55px;
+}
+
+header img{
+	border-radius: 170px;
+    width: 300px;
+    border: 15px solid #3F404C;
+}
